@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vanshika-73
-- 👀 I’m interested in Web Development
+- 👀 Passionate in Web Development
 - 🌱 I’m currently learning Mern Stack Development
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 reach me via vanshikabansal73@gmail.com.
